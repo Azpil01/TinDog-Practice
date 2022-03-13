@@ -159,12 +159,12 @@ a{
 }
 
 @media (max-width: 1400px) {
-  #title {
+  .big-heading {
     text-align: center;
   }
 
   .title-image {
-    width: 40%;
+    width: 60%;
     position: static;
     transform: rotate(0);
   }
